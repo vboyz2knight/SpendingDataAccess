@@ -1,0 +1,14 @@
+C:\Hieu\VS2013\Demo2015_1\SpendingDataAccess\bin\Debug\SpendingDataAccess.dll
+C:\Hieu\VS2013\Demo2015_1\SpendingDataAccess\bin\Debug\SpendingDataAccess.pdb
+C:\Hieu\VS2013\Demo2015_1\SpendingDataAccess\obj\Debug\SpendingDataAccess.dll
+C:\Hieu\VS2013\Demo2015_1\SpendingDataAccess\obj\Debug\SpendingDataAccess.pdb
+C:\Hieu\VS2013\Demo2015_1\SpendingDataAccess\obj\Debug\SpendingDataAccess.csprojResolveAssemblyReference.cache
+C:\Hieu\VS2013\Demo2015_1\SpendingDataAccess\bin\Debug\MyTraceLogger.dll
+C:\Hieu\VS2013\Demo2015_1\SpendingDataAccess\bin\Debug\MyTraceLogger.pdb
+C:\Projects\Demo2015_1\SpendingDataAccess\bin\Debug\SpendingDataAccess.dll
+C:\Projects\Demo2015_1\SpendingDataAccess\bin\Debug\SpendingDataAccess.pdb
+C:\Projects\Demo2015_1\SpendingDataAccess\bin\Debug\MyTraceLogger.dll
+C:\Projects\Demo2015_1\SpendingDataAccess\bin\Debug\MyTraceLogger.pdb
+C:\Projects\Demo2015_1\SpendingDataAccess\obj\Debug\SpendingDataAccess.csprojResolveAssemblyReference.cache
+C:\Projects\Demo2015_1\SpendingDataAccess\obj\Debug\SpendingDataAccess.dll
+C:\Projects\Demo2015_1\SpendingDataAccess\obj\Debug\SpendingDataAccess.pdb
